@@ -22,7 +22,7 @@ This module focuses on building a supervised machine learning model to classify 
 
 2. Run the classification script:
     ```bash
-    python3 traffic_classifier.py
+    python3 CIC_IDS_2018.py
     ```
 
 3. This will:
@@ -35,5 +35,5 @@ This module focuses on building a supervised machine learning model to classify 
 
 ## Notes
 
-- Modify the dataset path inside `traffic_classifier.py` to use your own data.
+- Modify the dataset path inside `CIC_IDS_2018.py` to use your own data.
 - The model supports multi-class classification for different traffic types.
